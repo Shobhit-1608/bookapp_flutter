@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "350565308883",
+    "project_id": "fir-flutter-ece93",
+    "storage_bucket": "fir-flutter-ece93.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:350565308883:android:df9cd34af04f894bf8b726",
+        "android_client_info": {
+          "package_name": "com.example.bookapp_flutter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "350565308883-5e4ocl3e4eilqamhg44tnffshs809kil.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA44LZ8Q_nU6Yij3SAeiqaahgoHtXWxxvo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "350565308883-5e4ocl3e4eilqamhg44tnffshs809kil.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
